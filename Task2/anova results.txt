@@ -1,0 +1,24 @@
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+Origin        2    962   481.1   19.01 1.24e-08 ***
+Residuals   425  10754    25.3                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+Origin        2    962   481.1   35.71 4.76e-15 ***
+Type          5   5096  1019.3   75.66  < 2e-16 ***
+Residuals   420   5658    13.5                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+Origin        2    962   481.1   35.40 6.46e-15 ***
+Type          5   5096  1019.3   75.00  < 2e-16 ***
+Origin:Type   7     46     6.5    0.48    0.849    
+Residuals   413   5612    13.6                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+          Df Sum Sq Mean Sq   F value Pr(>F)    
+Origin     3  10657    3552 4.359e+31 <2e-16 ***
+Type       5   3098     620 7.604e+30 <2e-16 ***
+Residuals 10      0       0                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
