@@ -1,39 +1,114 @@
-"Manufacturer_Origin"	"Types"	"Maximal_invoice"
-"1"	"Acura [ Asia ]"	"Hybrid=0 Sedan=5 Sports=1 SUV=1 Truck=0 Wagon=0"	"Hybrid=0 Sedan=2466  RUB Sports=4798.68  RUB SUV=2000.22  RUB Truck=0 Wagon=0"
-"2"	"Audi [ Europe ]"	"Hybrid=0 Sedan=13 Sports=4 SUV=0 Truck=0 Wagon=2"	"Hybrid=0 Sedan=3884.4  RUB Sports=4585.02  RUB SUV=0 Truck=0 Wagon=4585.02  RUB"
-"3"	"BMW [ Europe ]"	"Hybrid=0 Sedan=13 Sports=4 SUV=2 Truck=0 Wagon=1"	"Hybrid=0 Sedan=4009.8  RUB Sports=4009.8  RUB SUV=2863.2  RUB Truck=0 Wagon=4009.8  RUB"
-"4"	"Buick [ USA ]"	"Hybrid=0 Sedan=7 Sports=0 SUV=2 Truck=0 Wagon=0"	"Hybrid=0 Sedan=2215.62  RUB Sports=0 SUV=2061.42  RUB Truck=0 Wagon=0"
-"5"	"Cadillac [ USA ]"	"Hybrid=0 Sedan=4 Sports=1 SUV=2 Truck=1 Wagon=0"	"Hybrid=0 Sedan=2902.62  RUB Sports=4232.76  RUB SUV=2902.62  RUB Truck=4232.76  RUB Wagon=0"
-"6"	"Chevrolet [ USA ]"	"Hybrid=0 Sedan=15 Sports=2 SUV=4 Truck=5 Wagon=1"	"Hybrid=0 Sedan=2245.32  RUB Sports=2711.58  RUB SUV=2245.32  RUB Truck=2711.58  RUB Wagon=2711.58  RUB"
-"7"	"Chrysler [ USA ]"	"Hybrid=0 Sedan=13 Sports=1 SUV=0 Truck=0 Wagon=1"	"Hybrid=0 Sedan=2103.78  RUB Sports=2103.78  RUB SUV=0 Truck=0 Wagon=2103.78  RUB"
-"8"	"Dodge [ USA ]"	"Hybrid=0 Sedan=8 Sports=1 SUV=1 Truck=3 Wagon=0"	"Hybrid=0 Sedan=1788.72  RUB Sports=4467.06  RUB SUV=1768.32  RUB Truck=4467.06  RUB Wagon=0"
-"9"	"Ford [ USA ]"	"Hybrid=0 Sedan=11 Sports=3 SUV=4 Truck=3 Wagon=2"	"Hybrid=0 Sedan=2189.64  RUB Sports=2189.64  RUB SUV=2189.64  RUB Truck=2189.64  RUB Wagon=2189.64  RUB"
-"10"	"GMC [ USA ]"	"Hybrid=0 Sedan=1 Sports=0 SUV=3 Truck=4 Wagon=0"	"Hybrid=0 Sedan=2432.04  RUB Sports=0 SUV=2432.04  RUB Truck=2432.04  RUB Wagon=0"
-"11"	"Honda [ Asia ]"	"Hybrid=2 Sedan=11 Sports=1 SUV=3 Truck=0 Wagon=0"	"Hybrid=1107.06  RUB Sedan=1490.58  RUB Sports=1797.9  RUB SUV=1490.58  RUB Truck=0 Wagon=0"
-"12"	"Hummer [ USA ]"	"Hybrid=0 Sedan=0 Sports=0 SUV=1 Truck=0 Wagon=0"	"Hybrid=0 Sedan=0 Sports=0 SUV=0 Truck=0 Wagon=0"
-"13"	"Hyundai [ Asia ]"	"Hybrid=0 Sedan=10 Sports=1 SUV=1 Truck=0 Wagon=0"	"Hybrid=0 Sedan=1409.16  RUB Sports=1409.16  RUB SUV=1212.06  RUB Truck=0 Wagon=0"
-"14"	"Infiniti [ Asia ]"	"Hybrid=0 Sedan=6 Sports=0 SUV=0 Truck=0 Wagon=2"	"Hybrid=0 Sedan=2854.5  RUB Sports=0 SUV=0 Truck=0 Wagon=2854.5  RUB"
-"15"	"Isuzu [ Asia ]"	"Hybrid=0 Sedan=0 Sports=0 SUV=2 Truck=0 Wagon=0"	"Hybrid=0 Sedan=0 Sports=0 SUV=1798.62  RUB Truck=0 Wagon=0"
-"16"	"Jaguar [ Europe ]"	"Hybrid=0 Sedan=8 Sports=4 SUV=0 Truck=0 Wagon=0"	"Hybrid=0 Sedan=4098.36  RUB Sports=4753.56  RUB SUV=0 Truck=0 Wagon=0"
-"17"	"Jeep [ USA ]"	"Hybrid=0 Sedan=0 Sports=0 SUV=3 Truck=0 Wagon=0"	"Hybrid=0 Sedan=0 Sports=0 SUV=0 Truck=0 Wagon=0"
-"18"	"Kia [ Asia ]"	"Hybrid=0 Sedan=9 Sports=0 SUV=1 Truck=0 Wagon=1"	"Hybrid=0 Sedan=1425.84  RUB Sports=0 SUV=1117.8  RUB Truck=0 Wagon=1425.84  RUB"
-"19"	"Land Rover [ Europe ]"	"Hybrid=0 Sedan=0 Sports=0 SUV=3 Truck=0 Wagon=0"	"Hybrid=0 Sedan=0 Sports=0 SUV=0 Truck=0 Wagon=0"
-"20"	"Lexus [ Asia ]"	"Hybrid=0 Sedan=6 Sports=1 SUV=3 Truck=0 Wagon=1"	"Hybrid=0 Sedan=3387.3  RUB Sports=3387.3  RUB SUV=3387.3  RUB Truck=0 Wagon=3387.3  RUB"
-"21"	"Lincoln [ USA ]"	"Hybrid=0 Sedan=7 Sports=0 SUV=2 Truck=0 Wagon=0"	"Hybrid=0 Sedan=0 Sports=0 SUV=2781.6  RUB Truck=0 Wagon=0"
-"22"	"MINI [ Europe ]"	"Hybrid=0 Sedan=2 Sports=0 SUV=0 Truck=0 Wagon=0"	"Hybrid=0 Sedan=1088.22  RUB Sports=0 SUV=0 Truck=0 Wagon=0"
-"23"	"Mazda [ Asia ]"	"Hybrid=0 Sedan=4 Sports=4 SUV=1 Truck=2 Wagon=0"	"Hybrid=0 Sedan=1596  RUB Sports=1596  RUB SUV=1184.52  RUB Truck=1596  RUB Wagon=0"
-"24"	"Mercedes-Benz [ Europe ]"	"Hybrid=0 Sedan=16 Sports=5 SUV=2 Truck=0 Wagon=3"	"Hybrid=0 Sedan=7176  RUB Sports=7176  RUB SUV=4292.4  RUB Truck=0 Wagon=7176  RUB"
-"25"	"Mercury [ USA ]"	"Hybrid=0 Sedan=7 Sports=0 SUV=1 Truck=0 Wagon=1"	"Hybrid=0 Sedan=1893.48  RUB Sports=0 SUV=1639.02  RUB Truck=0 Wagon=1893.48  RUB"
-"26"	"Mitsubishi [ Asia ]"	"Hybrid=0 Sedan=6 Sports=3 SUV=3 Truck=0 Wagon=1"	"Hybrid=0 Sedan=1845.78  RUB Sports=1845.78  RUB SUV=1845.78  RUB Truck=0 Wagon=1845.78  RUB"
-"27"	"Nissan [ Asia ]"	"Hybrid=0 Sedan=9 Sports=2 SUV=3 Truck=2 Wagon=1"	"Hybrid=0 Sedan=1848.9  RUB Sports=1910.7  RUB SUV=1848.9  RUB Truck=1910.7  RUB Wagon=1910.7  RUB"
-"28"	"Oldsmobile [ USA ]"	"Hybrid=0 Sedan=3 Sports=0 SUV=0 Truck=0 Wagon=0"	"Hybrid=0 Sedan=1567.2  RUB Sports=0 SUV=0 Truck=0 Wagon=0"
-"29"	"Pontiac [ USA ]"	"Hybrid=0 Sedan=8 Sports=1 SUV=1 Truck=0 Wagon=1"	"Hybrid=0 Sedan=1979.82  RUB Sports=1979.82  RUB SUV=1188.6  RUB Truck=0 Wagon=1979.82  RUB"
-"30"	"Porsche [ Europe ]"	"Hybrid=0 Sedan=0 Sports=6 SUV=1 Truck=0 Wagon=0"	"Hybrid=0 Sedan=0 Sports=10413.6  RUB SUV=2991.9  RUB Truck=0 Wagon=0"
-"31"	"Saab [ Europe ]"	"Hybrid=0 Sedan=6 Sports=0 SUV=0 Truck=0 Wagon=1"	"Hybrid=0 Sedan=2452.98  RUB Sports=0 SUV=0 Truck=0 Wagon=2452.98  RUB"
-"32"	"Saturn [ USA ]"	"Hybrid=0 Sedan=6 Sports=0 SUV=1 Truck=0 Wagon=1"	"Hybrid=0 Sedan=1188.06  RUB Sports=0 SUV=1154.28  RUB Truck=0 Wagon=1306.74  RUB"
-"33"	"Scion [ Asia ]"	"Hybrid=0 Sedan=1 Sports=0 SUV=0 Truck=0 Wagon=1"	"Hybrid=0 Sedan=740.4  RUB Sports=0 SUV=0 Truck=0 Wagon=808.8  RUB"
-"34"	"Subaru [ Asia ]"	"Hybrid=0 Sedan=6 Sports=2 SUV=0 Truck=1 Wagon=2"	"Hybrid=0 Sedan=1716.18  RUB Sports=1747.8  RUB SUV=0 Truck=1747.8  RUB Wagon=1747.8  RUB"
-"35"	"Suzuki [ Asia ]"	"Hybrid=0 Sedan=5 Sports=0 SUV=2 Truck=0 Wagon=1"	"Hybrid=0 Sedan=1338.42  RUB Sports=0 SUV=1338.42  RUB Truck=0 Wagon=1338.42  RUB"
-"36"	"Toyota [ Asia ]"	"Hybrid=1 Sedan=16 Sports=2 SUV=5 Truck=3 Wagon=1"	"Hybrid=1135.56  RUB Sedan=2879.16  RUB Sports=2879.16  RUB SUV=2879.16  RUB Truck=2879.16  RUB Wagon=2879.16  RUB"
-"37"	"Volkswagen [ Europe ]"	"Hybrid=0 Sedan=11 Sports=0 SUV=1 Truck=0 Wagon=3"	"Hybrid=0 Sedan=4147.8  RUB Sports=0 SUV=1934.58  RUB Truck=0 Wagon=4147.8  RUB"
-"38"	"Volvo [ Europe ]"	"Hybrid=0 Sedan=9 Sports=0 SUV=1 Truck=0 Wagon=2"	"Hybrid=0 Sedan=2554.38  RUB Sports=0 SUV=2331.06  RUB Truck=0 Wagon=0"
+Acura[Asia]
+Hybrid=0 Sedan=5 Sports=1 SUV=1 Truck=0 Wagon=0
+Hybrid=0 Sedan=2466000  RUB Sports=4798680  RUB SUV=2000220  RUB Truck=0 Wagon=0
+Audi[Europe]
+Hybrid=0 Sedan=13 Sports=4 SUV=0 Truck=0 Wagon=2
+Hybrid=0 Sedan=3884400  RUB Sports=4585020  RUB SUV=0 Truck=0 Wagon=2666760  RUB
+BMW[Europe]
+Hybrid=0 Sedan=13 Sports=4 SUV=2 Truck=0 Wagon=1
+Hybrid=0 Sedan=4009800  RUB Sports=3108900  RUB SUV=2863200  RUB Truck=0 Wagon=1806600  RUB
+Buick[USA]
+Hybrid=0 Sedan=7 Sports=0 SUV=2 Truck=0 Wagon=0
+Hybrid=0 Sedan=2215620  RUB Sports=0 SUV=2061420  RUB Truck=0 Wagon=0
+Cadillac[USA]
+Hybrid=0 Sedan=4 Sports=1 SUV=2 Truck=1 Wagon=0
+Hybrid=0 Sedan=2781720  RUB Sports=4232760  RUB SUV=2902620  RUB Truck=2912460  RUB Wagon=0
+Chevrolet[USA]
+Hybrid=0 Sedan=15 Sports=2 SUV=4 Truck=5 Wagon=1
+Hybrid=0 Sedan=1540320  RUB Sports=2711580  RUB SUV=2245320  RUB Truck=2358360  RUB Wagon=1223640  RUB
+Chrysler[USA]
+Hybrid=0 Sedan=13 Sports=1 SUV=0 Truck=0 Wagon=1
+Hybrid=0 Sedan=2103780  RUB Sports=1921980  RUB SUV=0 Truck=0 Wagon=1723500  RUB
+Dodge[USA]
+Hybrid=0 Sedan=8 Sports=1 SUV=1 Truck=3 Wagon=0
+Hybrid=0 Sedan=1788720  RUB Sports=4467060  RUB SUV=1768320  RUB Truck=1120200  RUB Wagon=0
+Ford[USA]
+Hybrid=0 Sedan=11 Sports=3 SUV=4 Truck=3 Wagon=2
+Hybrid=0 Sedan=1665360  RUB Sports=2068980  RUB SUV=2189640  RUB Truck=1764300  RUB Wagon=1227420  RUB
+GMC[USA]
+Hybrid=0 Sedan=1 Sports=0 SUV=3 Truck=4 Wagon=0
+Hybrid=0 Sedan=1392900  RUB Sports=0 SUV=2432040  RUB Truck=1545540  RUB Wagon=0
+Honda[Asia]
+Hybrid=2 Sedan=11 Sports=1 SUV=3 Truck=0 Wagon=0
+Hybrid=1107060  RUB Sedan=1484640  RUB Sports=1797900  RUB SUV=1490580  RUB Truck=0 Wagon=0
+Hummer[USA]
+Hybrid=0 Sedan=0 Sports=0 SUV=1 Truck=0 Wagon=0
+Hybrid=0 Sedan=0 Sports=0 SUV=0 Truck=0 Wagon=0
+Hyundai[Asia]
+Hybrid=0 Sedan=10 Sports=1 SUV=1 Truck=0 Wagon=0
+Hybrid=0 Sedan=1409160  RUB Sports=1026060  RUB SUV=1212060  RUB Truck=0 Wagon=0
+Infiniti[Asia]
+Hybrid=0 Sedan=6 Sports=0 SUV=0 Truck=0 Wagon=2
+Hybrid=0 Sedan=2854500  RUB Sports=0 SUV=0 Truck=0 Wagon=1987260  RUB
+Isuzu[Asia]
+Hybrid=0 Sedan=0 Sports=0 SUV=2 Truck=0 Wagon=0
+Hybrid=0 Sedan=0 Sports=0 SUV=1798620  RUB Truck=0 Wagon=0
+Jaguar[Europe]
+Hybrid=0 Sedan=8 Sports=4 SUV=0 Truck=0 Wagon=0
+Hybrid=0 Sedan=4098360  RUB Sports=4753560  RUB SUV=0 Truck=0 Wagon=0
+Jeep[USA]
+Hybrid=0 Sedan=0 Sports=0 SUV=3 Truck=0 Wagon=0
+Hybrid=0 Sedan=0 Sports=0 SUV=0 Truck=0 Wagon=0
+Kia[Asia]
+Hybrid=0 Sedan=9 Sports=0 SUV=1 Truck=0 Wagon=1
+Hybrid=0 Sedan=1425840  RUB Sports=0 SUV=1117800  RUB Truck=0 Wagon=684600  RUB
+LandRover[Europe]
+Hybrid=0 Sedan=0 Sports=0 SUV=3 Truck=0 Wagon=0
+Hybrid=0 Sedan=0 Sports=0 SUV=0 Truck=0 Wagon=0
+Lexus[Asia]
+Hybrid=0 Sedan=6 Sports=1 SUV=3 Truck=0 Wagon=1
+Hybrid=0 Sedan=2914980  RUB Sports=3303780  RUB SUV=3387300  RUB Truck=0 Wagon=1718820  RUB
+Lincoln[USA]
+Hybrid=0 Sedan=7 Sports=0 SUV=2 Truck=0 Wagon=0
+Hybrid=0 Sedan=0 Sports=0 SUV=2781600  RUB Truck=0 Wagon=0
+MINI[Europe]
+Hybrid=0 Sedan=2 Sports=0 SUV=0 Truck=0 Wagon=0
+Hybrid=0 Sedan=1088220  RUB Sports=0 SUV=0 Truck=0 Wagon=0
+Mazda[Asia]
+Hybrid=0 Sedan=4 Sports=4 SUV=1 Truck=2 Wagon=0
+Hybrid=0 Sedan=1596000  RUB Sports=1510740  RUB SUV=1184520  RUB Truck=1228920  RUB Wagon=0
+Mercedes-Benz[Europe]
+Hybrid=0 Sedan=16 Sports=5 SUV=2 Truck=0 Wagon=3
+Hybrid=0 Sedan=7176000  RUB Sports=7071240  RUB SUV=4292400  RUB Truck=0 Wagon=3388440  RUB
+Mercury[USA]
+Hybrid=0 Sedan=7 Sports=0 SUV=1 Truck=0 Wagon=1
+Hybrid=0 Sedan=1893480  RUB Sports=0 SUV=1639020  RUB Truck=0 Wagon=1244880  RUB
+Mitsubishi[Asia]
+Hybrid=0 Sedan=6 Sports=3 SUV=3 Truck=0 Wagon=1
+Hybrid=0 Sedan=1635000  RUB Sports=1647960  RUB SUV=1845780  RUB Truck=0 Wagon=977700  RUB
+Nissan[Asia]
+Hybrid=0 Sedan=9 Sports=2 SUV=3 Truck=2 Wagon=1
+Hybrid=0 Sedan=1801140  RUB Sports=1910700  RUB SUV=1848900  RUB Truck=1495560  RUB Wagon=1638000  RUB
+Oldsmobile[USA]
+Hybrid=0 Sedan=3 Sports=0 SUV=0 Truck=0 Wagon=0
+Hybrid=0 Sedan=1567200  RUB Sports=0 SUV=0 Truck=0 Wagon=0
+Pontiac[USA]
+Hybrid=0 Sedan=8 Sports=1 SUV=1 Truck=0 Wagon=1
+Hybrid=0 Sedan=1979820  RUB Sports=1842600  RUB SUV=1188600  RUB Truck=0 Wagon=958380  RUB
+Porsche[Europe]
+Hybrid=0 Sedan=0 Sports=6 SUV=1 Truck=0 Wagon=0
+Hybrid=0 Sedan=0 Sports=10413600  RUB SUV=2991900  RUB Truck=0 Wagon=0
+Saab[Europe]
+Hybrid=0 Sedan=6 Sports=0 SUV=0 Truck=0 Wagon=1
+Hybrid=0 Sedan=2452980  RUB Sports=0 SUV=0 Truck=0 Wagon=2302560  RUB
+Saturn[USA]
+Hybrid=0 Sedan=6 Sports=0 SUV=1 Truck=0 Wagon=1
+Hybrid=0 Sedan=1188060  RUB Sports=0 SUV=1154280  RUB Truck=0 Wagon=1306740  RUB
+Scion[Asia]
+Hybrid=0 Sedan=1 Sports=0 SUV=0 Truck=0 Wagon=1
+Hybrid=0 Sedan=740400  RUB Sports=0 SUV=0 Truck=0 Wagon=808800  RUB
+Subaru[Asia]
+Hybrid=0 Sedan=6 Sports=2 SUV=0 Truck=1 Wagon=2
+Hybrid=0 Sedan=1716180  RUB Sports=1747800  RUB SUV=0 Truck=1338240  RUB Wagon=1306380  RUB
+Suzuki[Asia]
+Hybrid=0 Sedan=5 Sports=0 SUV=2 Truck=0 Wagon=1
+Hybrid=0 Sedan=1023180  RUB Sports=0 SUV=1338420  RUB Truck=0 Wagon=977460  RUB
+Toyota[Asia]
+Hybrid=1 Sedan=16 Sports=2 SUV=5 Truck=3 Wagon=1
+Hybrid=1135560  RUB Sedan=1636260  RUB Sports=1367220  RUB SUV=2879160  RUB Truck=1411200  RUB Wagon=909360  RUB
+Volkswagen[Europe]
+Hybrid=0 Sedan=11 Sports=0 SUV=1 Truck=0 Wagon=3
+Hybrid=0 Sedan=4147800  RUB Sports=0 SUV=1934580  RUB Truck=0 Wagon=2217360  RUB
+Volvo[Europe]
+Hybrid=0 Sedan=9 Sports=0 SUV=1 Truck=0 Wagon=2
+Hybrid=0 Sedan=2554380  RUB Sports=0 SUV=2331060  RUB Truck=0 Wagon=1986720  RUB
